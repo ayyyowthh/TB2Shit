@@ -50,7 +50,7 @@ repeat
 until correctKeyEntered
 
 -- Main Script (Executes after key is verified)
-local customText = "Nigger" -- Change this text as needed
+local customText = "🤓Stfu and slide the script🤓" -- Change this text as needed
 
 -- Create the ScreenGui
 local screenGui = Instance.new("ScreenGui")
